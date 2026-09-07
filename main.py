@@ -10,7 +10,7 @@ from moviepy.editor import VideoFileClip
 from pydub import AudioSegment
 
 # --- НАСТРОЙКИ ---
-BOT_TOKEN = "ТВОЙ_ТОКЕН_БОТА"
+BOT_TOKEN = "8839261922:AAEwe-AUMXSmk0Fap2n1VpMQ_E8sSEg41s8"
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
